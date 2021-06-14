@@ -1,0 +1,26 @@
+.navbar-brand img {
+    width: 46px;
+    height: 66px;
+}
+
+.container .row{
+    background-color: #de1d22;
+    margin: auto;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.pie-pagina .row{
+    margin: auto;
+    background-color: #000000;
+}
+
+.pie-pagina i{
+    color: #ededed;
+}
+
+.pie-pagina .col{
+    margin: auto;
+}
